@@ -1,0 +1,15 @@
+c:\Users\hi4i\source\net\whendy\bin\Debug\net7.0\whendy.exe
+c:\Users\hi4i\source\net\whendy\bin\Debug\net7.0\whendy.deps.json
+c:\Users\hi4i\source\net\whendy\bin\Debug\net7.0\whendy.runtimeconfig.json
+c:\Users\hi4i\source\net\whendy\bin\Debug\net7.0\whendy.dll
+c:\Users\hi4i\source\net\whendy\bin\Debug\net7.0\whendy.pdb
+c:\Users\hi4i\source\net\whendy\obj\Debug\net7.0\whendy.csproj.AssemblyReference.cache
+c:\Users\hi4i\source\net\whendy\obj\Debug\net7.0\whendy.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\hi4i\source\net\whendy\obj\Debug\net7.0\whendy.AssemblyInfoInputs.cache
+c:\Users\hi4i\source\net\whendy\obj\Debug\net7.0\whendy.AssemblyInfo.cs
+c:\Users\hi4i\source\net\whendy\obj\Debug\net7.0\whendy.csproj.CoreCompileInputs.cache
+c:\Users\hi4i\source\net\whendy\obj\Debug\net7.0\whendy.dll
+c:\Users\hi4i\source\net\whendy\obj\Debug\net7.0\refint\whendy.dll
+c:\Users\hi4i\source\net\whendy\obj\Debug\net7.0\whendy.pdb
+c:\Users\hi4i\source\net\whendy\obj\Debug\net7.0\whendy.genruntimeconfig.cache
+c:\Users\hi4i\source\net\whendy\obj\Debug\net7.0\ref\whendy.dll
